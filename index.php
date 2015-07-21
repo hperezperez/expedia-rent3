@@ -25,9 +25,9 @@
 			<img src="graficas/graficas/dibujo1.jpg"alt="diagram">
 			<div clas="sql">
 
-				<p>DROP TABLE IF EXISTS renter; </p>
+				<p>DROP TABLE IF EXISTS reservation; </p>
 				<p>DROP TABLE IF EXISTS car_rented; </p>
-				<P>DROP TABLE IF EXISTS reservation;</P>
+				<P>DROP TABLE IF EXISTS renter;</P>
 
 				<P> </P>
 				<p>CREATE TABLE renter(</p>
