@@ -20,22 +20,29 @@
 
 				<li>The first use case is A person rent a car by</li>
 				<p>1)accesing the site,</p>
-				<simple>- a)  enter pick up locatio</simple>
-				<p>- b)  enter return location)</p>
-				<p>- c)  enter pickup date and time</p>
-				<p>- d)  enter return date and time,</p>
-				<p>2)deciding the price</p>
-				<simple>- a) choose provider</simple>
-				<p>- b) choose price </p>
-				<P>- c) pay</P>
+				<simple>- a)   pick up locatio</simple>
+				<p>- b)  pickup date and time</p>
+				<p>- c)  choose a price
+				<p>- d)  choose provider</p>
+				<p>2) clicking </p>
+				<p>-a)get rental confirmatio num</p>
+				<p>-b) get location</p>
+				<p>-c) get price's confirmation</p>
+
 				<p>3)	clicking.</p>
 				<li>The  second use case is A person rent a car  by</li>
 				<p>1)	accessing  the site </p>
-				<p>2)   reserve the car later</p>
-				<p>3)	rent the car</p>
+				<p> -they are the same steps a,b,c and d from previous case1</p>
+				<p>2)   reserve the car </p>
+				<p> -a) renter get reservation num</p>
+				<p> -b) renter get reservation location inf</p>
+				<p> -c) renter get reservation price inf</p>
+				<p>3)later	rent the car</p>
 				<li> The third use case is a person try to rent a car by </li>
 				<p>1)accesing the site</p>
+				<p> They are the same  step a,b,c, and from previous case 1</p>
 				<p>2)make reservation</p>
+				<p> they ar the same step a,b,c, and from case 2</p>
 				<p>3)but never reserve it </p>
 			</ul>
 			<h1>Entity Relationship Diagram</h1>
