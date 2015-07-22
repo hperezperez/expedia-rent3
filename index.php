@@ -13,13 +13,27 @@
 			</header>
 			<p> He is school teacher. He likes extreme sports. He  likes speed.</P>
 			<p>He is single with one kid and one dog. He travels in the summer.</p>
+			<p>His salary is 35,ooo per year. Acording  to his family size he needs a medium car o greater</p>
 			<img src="graficas/graficas/actionfoto.jpg" alt="action">
 			<h3>Use cases</h3>
 			<ul>
 
-				<li>The first use case is A person rent a car by accesing the site, deciding the price and clicking.</li>
-				<li>The  second use case is A person rent a car  by accessing  the site,reserve the car later rent the car</li>
-				<li> The third use case is a person try to rent a car by accesing the site make reservation but never reserve it </li>
+				<li>The first use case is A person rent a car by</li>
+				<p>1)accesing the site,</p>
+				<simple> a)  enter pick up locatio</simple>
+				<li> b)  enter return location)</li>
+				<li> c)  enter pickup date and time</li>
+				<li> d)  enter return date and time,</li>
+				<li>2)deciding the price</li>
+				<li>3)	clicking.</li>
+				<li>The  second use case isA person rent a car  by</li>
+				<li>1)	accessing  the site </li>
+				<li>2)   reserve the car later</li>
+				<li>3)	rent the car</li>
+				<li> The third use case is a person try to rent a car by </li>
+				<li>1)accesing the site</li>
+				<li>2)make reservation</li>
+				<li>3)but never reserve it </li>
 			</ul>
 			<h1>Entity Relationship Diagram</h1>
 			<img src="graficas/graficas/dibujo1.jpg"alt="diagram">
