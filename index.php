@@ -20,20 +20,23 @@
 
 				<li>The first use case is A person rent a car by</li>
 				<p>1)accesing the site,</p>
-				<simple> a)  enter pick up locatio</simple>
-				<li> b)  enter return location)</li>
-				<li> c)  enter pickup date and time</li>
-				<li> d)  enter return date and time,</li>
-				<li>2)deciding the price</li>
-				<li>3)	clicking.</li>
-				<li>The  second use case isA person rent a car  by</li>
-				<li>1)	accessing  the site </li>
-				<li>2)   reserve the car later</li>
-				<li>3)	rent the car</li>
+				<simple>- a)  enter pick up locatio</simple>
+				<p>- b)  enter return location)</p>
+				<p>- c)  enter pickup date and time</p>
+				<p>- d)  enter return date and time,</p>
+				<p>2)deciding the price</p>
+				<simple>- a) choose provider</simple>
+				<p>- b) choose price </p>
+				<P>- c) pay</P>
+				<p>3)	clicking.</p>
+				<li>The  second use case is A person rent a car  by</li>
+				<p>1)	accessing  the site </p>
+				<p>2)   reserve the car later</p>
+				<p>3)	rent the car</p>
 				<li> The third use case is a person try to rent a car by </li>
-				<li>1)accesing the site</li>
-				<li>2)make reservation</li>
-				<li>3)but never reserve it </li>
+				<p>1)accesing the site</p>
+				<p>2)make reservation</p>
+				<p>3)but never reserve it </p>
 			</ul>
 			<h1>Entity Relationship Diagram</h1>
 			<img src="graficas/graficas/dibujo1.jpg"alt="diagram">
