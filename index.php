@@ -11,9 +11,11 @@
 			<header>
 				<h1> JOSE SANCHEZ Persona</h1>
 			</header>
-			<p> He is school teacher. He likes extreme sports. He  likes speed.</P>
+			<p> He is a school teacher. He likes extreme sports. He  likes speed.</P>
 			<p>He is single with one kid and one dog. He travels in the summer.</p>
-			<p>His salary is 35,ooo per year. Acording  to his family size he needs a medium car o greater</p>
+			<p> He wants to rent a car for a week.He likes to use the web istead to rent by phone</p>
+			<p> He is from a group population(latino) that is growing and they are spendig money.  </p>
+			<p>His salary is 55,000 per year. Acording  to his family size he needs a medium car o greater</p>
 			<img src="graficas/graficas/actionfoto.jpg" alt="action">
 			<h3>Use cases</h3>
 			<ul>
